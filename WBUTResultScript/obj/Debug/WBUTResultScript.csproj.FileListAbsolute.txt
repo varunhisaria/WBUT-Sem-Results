@@ -1,0 +1,12 @@
+E:\Projects\WBUTResultScript\WBUTResultScript\bin\Debug\WBUTResultScript.exe.config
+E:\Projects\WBUTResultScript\WBUTResultScript\bin\Debug\WBUTResultScript.exe
+E:\Projects\WBUTResultScript\WBUTResultScript\bin\Debug\WBUTResultScript.pdb
+E:\Projects\WBUTResultScript\WBUTResultScript\obj\Debug\WBUTResultScript.csprojResolveAssemblyReference.cache
+E:\Projects\WBUTResultScript\WBUTResultScript\obj\Debug\WBUTResultScript.exe
+E:\Projects\WBUTResultScript\WBUTResultScript\obj\Debug\WBUTResultScript.pdb
+E:\Projects\WBUTResultScript\WBUTResultScript\bin\Debug\HtmlAgilityPack.dll
+E:\Projects\WBUTResultScript\WBUTResultScript\bin\Debug\HtmlAgilityPack.pdb
+E:\Projects\WBUTResultScript\WBUTResultScript\bin\Debug\HtmlAgilityPack.xml
+E:\Projects\Git\WBUTResultScript\WBUTResultScript\bin\Debug\WBUTResultScript.exe.config
+E:\Projects\Git\WBUTResultScript\WBUTResultScript\obj\Debug\WBUTResultScript.exe
+E:\Projects\Git\WBUTResultScript\WBUTResultScript\obj\Debug\WBUTResultScript.pdb
